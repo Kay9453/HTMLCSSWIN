@@ -102,3 +102,7 @@ h2{
     border-radius: 16px;
     width: fit-content;
 }
+.test{
+    color: red;
+    font-size: 60px;
+}
